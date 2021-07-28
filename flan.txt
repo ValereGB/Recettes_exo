@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 yaourt
 chocolat
 Levure
@@ -6,3 +7,11 @@ franmoise
 Oeuf
 Vanille
 levure_chimique
+=======
+yaourt modif
+Beurre modif
+Levure modif
+Farine modif 
+Sucre modif 
+Oeuf modif
+>>>>>>> c539686081e3e818d2f0dc7500153806264a1447
