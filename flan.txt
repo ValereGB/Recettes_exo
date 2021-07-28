@@ -1,6 +1,8 @@
 yaourt
-Beurre 
+chocolat
 Levure
 Farine
-Sucre
+franmoise
 Oeuf
+Vanille
+levure_chimique
