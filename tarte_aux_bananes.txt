@@ -6,4 +6,8 @@ chocolat
 mélanger
 four à 220 degré
 durée : 30 minutes
+<<<<<<< HEAD
 Temps de préparation : 1h
+=======
+Temps de préparation : 10 min
+>>>>>>> origin/valere_recettes

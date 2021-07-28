@@ -4,4 +4,8 @@ Sucre
 Oeuf
 Levure
 Pomme
+<<<<<<< HEAD
 Temps de préparation : 1h
+=======
+Temps de préparation : 10 min
+>>>>>>> origin/valere_recettes

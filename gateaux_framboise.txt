@@ -3,4 +3,8 @@ ingré 2
 mélanger
 four à 180 degré
 durée : 15 minutes
+<<<<<<< HEAD
 Temps de préparation : 1h
+=======
+Temps de préparation : 10 min
+>>>>>>> origin/valere_recettes

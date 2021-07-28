@@ -2,4 +2,8 @@ Lait
 Farine
 Sucre
 Oeuf
+<<<<<<< HEAD
 Temps de préparation : 1h
+=======
+Temps de préparation : 1 min
+>>>>>>> origin/valere_recettes

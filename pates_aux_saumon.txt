@@ -4,4 +4,8 @@ crème fraiche
 herbes et épices
 à la casserole
 durée : 20 minutes
+<<<<<<< HEAD
 Temps de préparation : 1h30
+=======
+Temps de préparation : 10 min
+>>>>>>> origin/valere_recettes

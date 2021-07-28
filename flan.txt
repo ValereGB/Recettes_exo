@@ -12,4 +12,8 @@ Levure modif
 Farine modif 
 Sucre modif 
 Oeuf modif
+<<<<<<< HEAD
 Temps de préparation : 1h10
+=======
+Temps de préparation : 100 min
+>>>>>>> origin/valere_recettes
